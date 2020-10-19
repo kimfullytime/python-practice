@@ -1,0 +1,3 @@
+https://docs.python.org/3.8/tutorial/index.html
+https://docs.python.org/3.8/index.html
+https://www.liaoxuefeng.com/wiki/1016959663602400/1016959856222624
