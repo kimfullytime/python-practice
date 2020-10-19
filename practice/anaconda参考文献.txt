@@ -1,3 +1,4 @@
 https://docs.anaconda.com/anaconda/navigator/
 https://blog.csdn.net/ITLearnHall/article/details/81708148
 https://www.jetbrains.com/lp/pycharm-anaconda/?=
+https://get.anaconda.com/distribution/tutorial/
